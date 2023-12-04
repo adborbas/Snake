@@ -1,6 +1,6 @@
 # Snake
 
-An open-source iOS game inspired by the class [Snake game](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
+An open-source iOS game inspired by the classic [Snake game](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 ## Features
 
